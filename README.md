@@ -1,6 +1,6 @@
 # Exercise restaurant
 
-[Chez Cam](https://thdepas.github.io/restaurant-css-framework)
+[Chez Cam](https://thdepas.github.io/Bootstrap_restaurant/)
 
 
 ## Languages used:
